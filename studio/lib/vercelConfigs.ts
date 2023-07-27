@@ -50,17 +50,17 @@ export const VERCEL_INTEGRATION_CONFIGS = [
       {
         key: 'NEXT_PUBLIC_SUPABASE_URL',
         alias: INTEGRATION_ENVS_ALIAS.ENDPOINT,
-        type: 'encrypted',
+        type: 'https://gakofrbldolbyosqvakb.supabase.co',
       },
       {
         key: 'NEXT_PUBLIC_SUPABASE_ANON_KEY',
         alias: INTEGRATION_ENVS_ALIAS.ANONKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTA0ODgwOTAsImV4cCI6MjAwNjA2NDA5MH0.zJHnUYUKSadd0Gm5C1JnH_EMpRbukx3zuIR3FPl1wN4',
       },
       {
         key: 'SUPABASE_SERVICE_ROLE_KEY',
         alias: INTEGRATION_ENVS_ALIAS.SERVICEKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5MDQ4ODA5MCwiZXhwIjoyMDA2MDY0MDkwfQ.61HNcq1_FUglVGBkyiFyYKD8N6CS4m2atvKjIbnNEGw',
       },
     ],
   },
@@ -72,17 +72,17 @@ export const VERCEL_INTEGRATION_CONFIGS = [
       {
         key: 'NEXT_PUBLIC_SUPABASE_URL',
         alias: INTEGRATION_ENVS_ALIAS.ENDPOINT,
-        type: 'encrypted',
+        type: 'https://gakofrbldolbyosqvakb.supabase.co',
       },
       {
         key: 'NEXT_PUBLIC_SUPABASE_ANON_KEY',
         alias: INTEGRATION_ENVS_ALIAS.ANONKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTA0ODgwOTAsImV4cCI6MjAwNjA2NDA5MH0.zJHnUYUKSadd0Gm5C1JnH_EMpRbukx3zuIR3FPl1wN4',
       },
       {
         key: 'SUPABASE_SERVICE_ROLE_KEY',
         alias: INTEGRATION_ENVS_ALIAS.SERVICEKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5MDQ4ODA5MCwiZXhwIjoyMDA2MDY0MDkwfQ.61HNcq1_FUglVGBkyiFyYKD8N6CS4m2atvKjIbnNEGw',
       },
     ],
   },
@@ -113,17 +113,17 @@ export const VERCEL_INTEGRATION_CONFIGS = [
       {
         key: 'NEXT_PUBLIC_SUPABASE_URL',
         alias: INTEGRATION_ENVS_ALIAS.ENDPOINT,
-        type: 'encrypted',
+        type: 'https://gakofrbldolbyosqvakb.supabase.co',
       },
       {
         key: 'NEXT_PUBLIC_SUPABASE_ANON_KEY',
         alias: INTEGRATION_ENVS_ALIAS.ANONKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTA0ODgwOTAsImV4cCI6MjAwNjA2NDA5MH0.zJHnUYUKSadd0Gm5C1JnH_EMpRbukx3zuIR3FPl1wN4',
       },
       {
         key: 'SUPABASE_SERVICE_ROLE_KEY',
         alias: INTEGRATION_ENVS_ALIAS.SERVICEKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5MDQ4ODA5MCwiZXhwIjoyMDA2MDY0MDkwfQ.61HNcq1_FUglVGBkyiFyYKD8N6CS4m2atvKjIbnNEGw',
       },
       {
         key: 'SUPABASE_DB_HOST',
@@ -145,17 +145,17 @@ export const VERCEL_INTEGRATION_CONFIGS = [
       {
         key: 'NEXT_PUBLIC_SUPABASE_URL',
         alias: INTEGRATION_ENVS_ALIAS.ENDPOINT,
-        type: 'encrypted',
+        type: 'https://gakofrbldolbyosqvakb.supabase.co',
       },
       {
         key: 'NEXT_PUBLIC_SUPABASE_ANON_KEY',
         alias: INTEGRATION_ENVS_ALIAS.ANONKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTA0ODgwOTAsImV4cCI6MjAwNjA2NDA5MH0.zJHnUYUKSadd0Gm5C1JnH_EMpRbukx3zuIR3FPl1wN4',
       },
       {
         key: 'SUPABASE_SERVICE_ROLE_KEY',
         alias: INTEGRATION_ENVS_ALIAS.SERVICEKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5MDQ4ODA5MCwiZXhwIjoyMDA2MDY0MDkwfQ.61HNcq1_FUglVGBkyiFyYKD8N6CS4m2atvKjIbnNEGw',
       },
     ],
   },
@@ -526,17 +526,17 @@ create or replace view comments_thread_with_user_vote as
       {
         key: 'NEXT_PUBLIC_SUPABASE_URL',
         alias: INTEGRATION_ENVS_ALIAS.ENDPOINT,
-        type: 'encrypted',
+        type: 'https://gakofrbldolbyosqvakb.supabase.co',
       },
       {
         key: 'NEXT_PUBLIC_SUPABASE_ANON_KEY',
         alias: INTEGRATION_ENVS_ALIAS.ANONKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTA0ODgwOTAsImV4cCI6MjAwNjA2NDA5MH0.zJHnUYUKSadd0Gm5C1JnH_EMpRbukx3zuIR3FPl1wN4',
       },
       {
         key: 'SUPABASE_SERVICE_ROLE_KEY',
         alias: INTEGRATION_ENVS_ALIAS.SERVICEKEY,
-        type: 'encrypted',
+        type: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha29mcmJsZG9sYnlvc3F2YWtiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5MDQ4ODA5MCwiZXhwIjoyMDA2MDY0MDkwfQ.61HNcq1_FUglVGBkyiFyYKD8N6CS4m2atvKjIbnNEGw',
       },
     ],
   },
